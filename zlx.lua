@@ -8,7 +8,7 @@
 local whitelist = {
     "PowerOFLukad", -- HIER deinen Namen reinschreiben
     "Benxluca17",
-"DeinZweiterAccount",
+"yboyyboy20",
 "DeinZweiterAccount",
 "DeinZweiterAccount",
 "DeinZweiterAccount",
