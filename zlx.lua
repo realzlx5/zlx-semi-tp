@@ -7,11 +7,10 @@
 -- // --- WHITELIST CONFIGURATION --- // --
 local whitelist = {
     "PowerOFLukad", -- HIER deinen Namen reinschreiben
+    "Wi3i38",
     "Benxluca17",
-"yboyyboy20",
-"Wi3i38",
-"DeinZweiterAccount",
-"DeinZweiterAccount",
+    "Benxluca17",
+    "Benxluca17",
 }
 
 -- // --- WHITELIST LOGIC (CLIENT SIDE ADAPTED) --- // --
