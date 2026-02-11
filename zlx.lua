@@ -7,7 +7,7 @@
 -- // --- WHITELIST CONFIGURATION --- // --
 local whitelist = {
     "PowerOFLukad", -- HIER deinen Namen reinschreiben
-    "Benxluc7",
+    "khohoi6",
     "aggich5",
     "Benxluca17",
     "Benxluca17",
